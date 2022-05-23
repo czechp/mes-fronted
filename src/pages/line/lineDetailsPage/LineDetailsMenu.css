@@ -1,0 +1,15 @@
+.line-details-menu-container{
+    width: 100%;
+    height: 50px;
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #6c757d;
+    padding-bottom: 20px;
+
+}
+
+.line-details-menu-button{
+    width: 20%;
+}
